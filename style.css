@@ -202,7 +202,7 @@ main button{
   
     #alerta {
       position: absolute; 
-      bottom: 40%; 
+      bottom: 50%; 
       left: 10%;
       display: flex;
       
@@ -211,8 +211,8 @@ main button{
     #botoes {
       flex-direction: column;
       position: absolute;
-      left: 1vh;
-      top: 50%;
+      left: 10%;
+      top: 40%;
     }
   
     #caixa-de-texto {
