@@ -212,7 +212,7 @@ main button{
       flex-direction: column;
       position: absolute;
       left: 1vh;
-      top: 60%;
+      top: 50%;
     }
   
     #caixa-de-texto {
